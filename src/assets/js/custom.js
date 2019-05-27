@@ -5,8 +5,6 @@ Email: niravjoshi87@gmail.com
 File: js
 */
 function init_plugins(){
-console.log('gisdf');
-
 $(function() {
     "use strict";
     $(function() {
